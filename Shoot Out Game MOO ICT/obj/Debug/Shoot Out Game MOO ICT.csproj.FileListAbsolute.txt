@@ -1,0 +1,10 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\bin\Debug\Shoot Out Game MOO ICT.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\bin\Debug\Shoot Out Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\bin\Debug\Shoot Out Game MOO ICT.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\obj\Debug\Shoot Out Game MOO ICT.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\obj\Debug\Shoot_Out_Game_MOO_ICT.Form1.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\obj\Debug\Shoot_Out_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\obj\Debug\Shoot Out Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\obj\Debug\Shoot Out Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\obj\Debug\Shoot Out Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Shoot Out Game MOO ICT\Shoot Out Game MOO ICT\obj\Debug\Shoot Out Game MOO ICT.pdb
